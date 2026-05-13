@@ -1,3 +1,5 @@
+Live Demo: https://femke-art-coder.github.io/sommersprint/
+
 Sommersprint – Das Bildungs-Reallabor für agile Sanierung
 Projektübersicht
 „Sommersprint“ ist ein innovatives Prozessmodell zur radikalen Beschleunigung kommunaler Sanierungsvorhaben. Das Projekt kombiniert moderne IT-Logik (BIM/LiDAR) mit agiler Nachwuchsförderung im Handwerk.  
