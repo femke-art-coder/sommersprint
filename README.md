@@ -18,3 +18,5 @@ Meilensteine (Lernkurve)
 Februar 2026: Erstellung des Lastenhefts und prozessuale Validierung.  
 April 2026: Ausarbeitung der technischen App-Spezifikationen und Ressourcen-Schätzung (Beta-Release in ca. 5-6 Monaten realistisch).  
 Heute: Zusammenführung aller Module in einer funktionalen Web-Umgebung als Beleg für die technische Realisierungskompetenz.
+
+Proof of Concept (Speed-Development): Umwandlung des 14-seitigen Sommersprint-Lastenhefts in eine funktionale, modulare Web-Präsenz innerhalb von 120 Minuten. Fokus auf die Transformation von statischen Inhalten in eine interaktive, barrierefreie Struktur unter Nutzung von HTML5, CSS3 (mobile Ansicht noch nicht perfekt) und modularer PDF-Einbindung.
