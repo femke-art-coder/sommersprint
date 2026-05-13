@@ -1,15 +1,15 @@
 :root {
-	--primary: #b58a36;
-	--dark: #1a1a1a;
+	--primary: #e27221;
+	--dark: #06254f;
 	--light: #f4f4f4;
-	--accent: #d5bb4a;
+	--accent: #e27221;
 }
 
 body {
 	font-family: 'Segoe UI', Arial, sans-serif;
 	line-height: 1.6;
 	margin: 0;
-	color: #333;
+	color: #0d074b;
 	background: var(--light);
 }
 
@@ -45,8 +45,8 @@ nav ul li a {
 
 header {
 	padding: 100px 5%;
-	text-align: center;
-	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('bau-bg.jpg');
+
+	background: linear-gradient(rgba(1, 11, 21, 0.1), rgba(17, 100, 189, 0.7)), url('bau-bg.jpg');
 	/* Platzhalter für Hintergrundbild */
 	background-size: cover;
 	color: white;
@@ -68,8 +68,12 @@ section {
 	background: white;
 	padding: 20px;
 	border-radius: 8px;
-	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 4px 6px rgba(21, 16, 170, 0.1);
 	text-align: center;
+}
+
+.card {
+	text-align: left;
 }
 
 .dark-bg {
@@ -96,9 +100,7 @@ section {
 
 /* Responsive Fix für Mobile PDFs */
 @media (max-width: 768px) {
-	iframe {
-		height: 400px;
-	}
+
 
 	.split-view {
 		flex-direction: column;
