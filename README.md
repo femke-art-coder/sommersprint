@@ -20,3 +20,4 @@ April 2026: Ausarbeitung der technischen App-Spezifikationen und Ressourcen-Sch�
 Heute: Zusammenführung aller Module in einer funktionalen Web-Umgebung als Beleg für die technische Realisierungskompetenz.
 
 Proof of Concept (Speed-Development): Umwandlung des 14-seitigen Sommersprint-Lastenhefts in eine funktionale, modulare Web-Präsenz innerhalb von 120 Minuten. Fokus auf die Transformation von statischen Inhalten in eine interaktive, barrierefreie Struktur unter Nutzung von HTML5, CSS3 (mobile Ansicht noch nicht perfekt) und modularer PDF-Einbindung.
+<img width="1080" height="2153" alt="Sommersprint" src="https://github.com/user-attachments/assets/36f65f50-3b8a-4dc4-8d73-8f0449c5979c" />
