@@ -19,5 +19,5 @@ Februar 2026: Erstellung des Projektes und prozessuale Validierung.
 
 März/ April 2026: Ausarbeitung des Konzeptes und der technischen App-Spezifikationen und Ressourcen-Schätzung (Beta-Release in ca. 5-6 Monaten realistisch).  
 
-## Status noch nicht angeschlossen 
+## Status noch nicht abgeschlossen 
 <img width="1080" height="2153" alt="Sommersprint" src="https://github.com/user-attachments/assets/36f65f50-3b8a-4dc4-8d73-8f0449c5979c" />
