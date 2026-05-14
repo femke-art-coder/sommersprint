@@ -1,6 +1,6 @@
 :root {
 	--primary: #e27221;
-	--dark: #06254f;
+	--dark: #06394f;
 	--light: #f4f4f4;
 	--accent: #e27221;
 }
@@ -26,6 +26,7 @@ nav {
 nav .logo span {
 	color: var(--accent);
 	font-weight: bold;
+	font-size: large;
 }
 
 nav ul {
@@ -46,7 +47,7 @@ nav ul li a {
 header {
 	padding: 100px 5%;
 
-	background: linear-gradient(rgba(1, 11, 21, 0.1), rgba(17, 100, 189, 0.7)), url('bau-bg.jpg');
+	background: linear-gradient(rgba(1, 13, 21, 0.1), rgba(17, 132, 189, 0.7)), url('bau-bg.jpg');
 	/* Platzhalter für Hintergrundbild */
 	background-size: cover;
 	color: white;
